@@ -4,3 +4,4 @@ Then fork the respository, create a new branch and add your name and send a pull
 Your entry should maintain the alphabetic order and it should be in the format ```your name <email-id>```
 
 Aditya Narayan narayanaditya95@gmail.com  
+Nishant Nikhil <nishantiam@gmail.com> 
