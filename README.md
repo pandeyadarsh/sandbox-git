@@ -6,3 +6,4 @@ Your entry should maintain the alphabetic order and it should be in the format `
 Aditya Narayan narayanaditya95@gmail.com  
 Arpit Saxena arpit.tarang@gmail.com  
 Akshay Gupta akshaysngupta@gmail.com
+Sanyam Agarwal sanyam.agarwal94@gmail.com
